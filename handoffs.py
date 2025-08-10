@@ -42,7 +42,7 @@ main_agen = Agent(
 
 res = Runner.run_sync(
     main_agen,
-    input='',
+    input='i wan to make new credit card bcz my card is stolen in yesterday?',
     run_config=config
 )
 
